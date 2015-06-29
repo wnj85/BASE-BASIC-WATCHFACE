@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "WNJ85",
+    "longName": "BASE-BASIC-WATCHFACE",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "BASE-BASIC-WATCHFACE",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1951890b-b51c-4339-ac9d-6ec2d09fd39d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
